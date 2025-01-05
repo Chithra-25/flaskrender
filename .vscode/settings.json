@@ -1,0 +1,5 @@
+{
+    "git.scanRepositories": [
+        "https://github.com/Chithra-25/flaskrender"
+    ]
+}
